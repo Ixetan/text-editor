@@ -6,7 +6,7 @@ app = QApplication([])
 layout = QVBoxLayout()
 
 buttons_layuot = QHBoxLayout()
-open_button = QPushButton("Открыть")
+open_button = QPushButton("Заопенить")
 save_button = QPushButton('Сохранить')
 buttons_layuot.addWidget(open_button)
 buttons_layuot.addWidget(save_button)
